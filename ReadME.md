@@ -1,4 +1,5 @@
-                                                                                                                                           # Weather Checker
+# Weather Checker
+
 
 A Python CLI tool that fetches live weather data for any city, by chaining two public APIs together.
 
